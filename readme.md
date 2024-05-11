@@ -27,3 +27,5 @@ Figma: https://www.figma.com/file/JW3CoYAuiz6hX72b4undlw/Alura-Plus---Layout-(Co
 * Usar variáveis CSS para armazenar valores além de cores como o nome da fonte;
 * Aplicar a fonte importada nos elementos através do CSS e outros atributos relacionados: font-family, font-size, font-weight;
 * Remover a decoração do texto de links através do text-decoration.
+
+![image](https://github.com/MichaelKnopacki/aluraplus/assets/77402918/cdbcd7a6-31be-4aec-b61e-3453956d07cb)
