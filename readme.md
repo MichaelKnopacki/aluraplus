@@ -28,4 +28,4 @@ Figma: https://www.figma.com/file/JW3CoYAuiz6hX72b4undlw/Alura-Plus---Layout-(Co
 * Aplicar a fonte importada nos elementos através do CSS e outros atributos relacionados: font-family, font-size, font-weight;
 * Remover a decoração do texto de links através do text-decoration.
 
-![A dulpa HTML e CSS](image.png)
+-> Posicionando elementos
