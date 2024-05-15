@@ -40,3 +40,9 @@ Figma: https://www.figma.com/file/JW3CoYAuiz6hX72b4undlw/Alura-Plus---Layout-(Co
 * Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.
 
 -> Finalizando nossa página
+
+* Usar flexbox e seu significado;
+* Flex-containers, flex-itens, flex-direction;
+* A tag footer;
+* Colocar o conhecimento em prática;
+* Pseudo-classes no CSS: hover e active.
