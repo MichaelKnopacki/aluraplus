@@ -38,3 +38,5 @@ Figma: https://www.figma.com/file/JW3CoYAuiz6hX72b4undlw/Alura-Plus---Layout-(Co
 * Construir uma nova section;
 * Reutilizar estilos através das classes dentro da nova section;
 * Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.
+
+-> Finalizando nossa página
