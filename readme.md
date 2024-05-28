@@ -46,3 +46,12 @@ Figma: https://www.figma.com/file/JW3CoYAuiz6hX72b4undlw/Alura-Plus---Layout-(Co
 * A tag footer;
 * Colocar o conhecimento em prática;
 * Pseudo-classes no CSS: hover e active.
+
+-> Compartilhando o projeto
+
+* Criar uma conta no Github;
+* Construir um repositório com o código do curso;
+* Escrever commits;
+* Fazer deploy no Github Pages e Vercel;
+* Editar código no VSCode Web;
+* Enviar alterações para o repositório já existente.
